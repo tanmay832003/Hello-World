@@ -21,5 +21,5 @@ import {appRoutes} from './routerConfig';
   bootstrap: [AppComponent]
 })
 export class AppModule {
-  title = 'tanmay';
+  title = 'tanmay Shah New';
  }
