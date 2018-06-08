@@ -1,0 +1,11 @@
+D:\Project\AngularTest\Hello-Wrold\bin\Debug\netcoreapp2.0\Hello-Wrold.deps.json
+D:\Project\AngularTest\Hello-Wrold\bin\Debug\netcoreapp2.0\Hello-Wrold.runtimeconfig.json
+D:\Project\AngularTest\Hello-Wrold\bin\Debug\netcoreapp2.0\Hello-Wrold.runtimeconfig.dev.json
+D:\Project\AngularTest\Hello-Wrold\bin\Debug\netcoreapp2.0\Hello-Wrold.dll
+D:\Project\AngularTest\Hello-Wrold\bin\Debug\netcoreapp2.0\Hello-Wrold.pdb
+D:\Project\AngularTest\Hello-Wrold\obj\Debug\netcoreapp2.0\Hello-Wrold.csprojAssemblyReference.cache
+D:\Project\AngularTest\Hello-Wrold\obj\Debug\netcoreapp2.0\Hello-Wrold.csproj.CoreCompileInputs.cache
+D:\Project\AngularTest\Hello-Wrold\obj\Debug\netcoreapp2.0\Hello-Wrold.AssemblyInfoInputs.cache
+D:\Project\AngularTest\Hello-Wrold\obj\Debug\netcoreapp2.0\Hello-Wrold.AssemblyInfo.cs
+D:\Project\AngularTest\Hello-Wrold\obj\Debug\netcoreapp2.0\Hello-Wrold.dll
+D:\Project\AngularTest\Hello-Wrold\obj\Debug\netcoreapp2.0\Hello-Wrold.pdb
